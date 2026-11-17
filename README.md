@@ -5,7 +5,7 @@ Installers for the Bee Bot desktop app. Download the file for your system from t
 
 - Windows: `Bee-Bot-<version>-x64.exe`
 - macOS: `Bee-Bot-<version>-arm64.dmg` (Apple silicon) or `Bee-Bot-<version>-x64.dmg` (Intel)
-- Linux: `Bee-Bot-<version>-x86_64.AppImage`
+- Linux: the `.AppImage` file
 
 Once installed, Bee Bot updates itself. This repository holds only release files; it is
 published automatically.
